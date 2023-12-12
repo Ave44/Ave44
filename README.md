@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am an IT student who is looking forward to join the way of code!
 <!--
 **Ave44/Ave44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
