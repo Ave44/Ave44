@@ -1,17 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
-I am an IT student who is looking forward to join the way of code!
+I am an IT student who is currently looking a place in the word of IT! 💻
+
+- 🎓 Graduated from the University of Gdansk with a bachelor's degree in "Practical Computer Science", with an average of 4.38 *(top 10% of students)*
+- 🖋 Currently studying at the University of Gdansk for a second degree in computer science
+- 🔎 Actively seeking an internship to jumpstart my career
+
+<hr>
+
+If you are interested in my previous projects I highly encourage you to check out my ✨[portfolio](https://github.com/Ave44/Portfolio)✨, where you can find them with 📜 detailed descriptions and 📷 rich iconograhpy!
 <!--
-**Ave44/Ave44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ magic.init() ✨
 -->
