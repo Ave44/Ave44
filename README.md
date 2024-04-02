@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am an IT student who is currently looking a place in the word of IT! 💻
+I am a computer science student who is currently looking for a place in the world of IT! 💻
 
 - 🎓 Graduated from the University of Gdansk with a bachelor's degree in "Practical Computer Science", with an average of 4.38 *(top 10% of students)*
 - 🖋 Currently studying at the University of Gdansk for a second degree in computer science
