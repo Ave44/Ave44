@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-I am a computer science student who is currently looking for a place in the world of IT! 💻
+I am a computer science graduate who is currently looking for a place in the world of IT! 💻
 
-- 🎓 Graduated from the University of Gdansk with a bachelor's degree in "Practical Computer Science", with an average of 4.38 *(top 10% of students)*
-- 🖋 Currently studying at the University of Gdansk for a second degree in computer science
-- 🔎 Actively seeking an internship to jumpstart my career
+- 🎓 Graduate of the University of Gdańsk, with a master's degree in computer science, with 5 on diploma
+- 🖋 Recipient of the Rector's scholarship awarded to the top 10% of students in the major
+- 🔎 Actively seeking a job/internship to jumpstart my career as a software developer
 
 <hr>
 
